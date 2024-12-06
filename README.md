@@ -1,5 +1,11 @@
-Теория тестирования
-Определение методов, типов и уровней тестирования для приложения интернет-магазин
-(https://docs.google.com/spreadsheets/d/1xCdFHSjLE9OKS54JBRDZPaMdz4qOWr3wSg1L4EbXfOg/edit?usp=sharing)
-Анализ требований и макета
-https://docs.google.com/spreadsheets/d/1plBBFsG7EamsFFZ6w6FgLgfGPBa6D6GBLdeGauVzI2s/edit?gid=0#gid=0
+# Теория тестирования
+
+## Определение методов, типов и уровней тестирования
+Для приложения "Интернет-магазин" разработан документ, содержащий описание методов, типов и уровней тестирования, которые планируется использовать.
+
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1xCdFHSjLE9OKS54JBRDZPaMdz4qOWr3wSg1L4EbXfOg/edit?usp=sharing)
+
+## Анализ требований и макета
+Проведен анализ требований и макета приложения "Интернет-магазин". В таблице представлены выявленные несоответствия и рекомендации по их устранению.
+
+[Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1plBBFsG7EamsFFZ6w6FgLgfGPBa6D6GBLdeGauVzI2s/edit?gid=0#gid=0)
